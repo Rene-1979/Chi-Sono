@@ -1,28 +1,28 @@
-# Chi-Sono
 # Ciao, sono Renè 👋
 
 ### WordPress Developer · Web Designer · Independent Builder
 
-Sono uno sviluppatore web italiano con una passione per il codice, il design e la tecnologia. Mi occupo principalmente di WordPress, creando siti web su misura con temi personalizzati, blocchi Gutenberg e interfacce progettate per essere veloci, accessibili e facili da usare.
+Sono uno sviluppatore web italiano appassionato di codice, design e tecnologia. Mi occupo principalmente di WordPress, realizzando siti web su misura con temi personalizzati, blocchi Gutenberg e interfacce progettate per essere performanti, accessibili e facili da usare.
 
-Mi piace avere il controllo su quello che costruisco. Preferisco partire da un progetto concreto, capire il problema e sviluppare una soluzione personalizzata piuttosto che affidarmi a template preconfezionati e page builder che limitano le possibilità.
+Preferisco sviluppare soluzioni personalizzate anziché dipendere da template preconfezionati e page builder. Mi piace capire come funzionano le tecnologie che utilizzo, sperimentare nuovi strumenti e trasformare idee in progetti concreti.
 
-Negli ultimi tempi sto ampliando le mie competenze anche nello sviluppo di applicazioni web con JavaScript e React, sperimentando nuove tecnologie e integrando l'intelligenza artificiale nel mio flusso di lavoro.
+Sto ampliando le mie competenze nello sviluppo di applicazioni web con JavaScript, React e Next.js, integrando l'intelligenza artificiale nel mio flusso di lavoro.
 
-## 🛠️ Cosa faccio
+## 🛠️ Competenze e interessi
 
-- **WordPress Development:** temi personalizzati, blocchi Gutenberg e sviluppo senza page builder.
-- **Frontend Development:** HTML, CSS, JavaScript, React e Tailwind CSS.
-- **UI/UX Design:** interfacce curate, responsive design, accessibilità e attenzione ai dettagli.
-- **AI-Assisted Development:** utilizzo di strumenti di intelligenza artificiale per esplorare soluzioni, accelerare lo sviluppo e trasformare idee in progetti funzionanti.
-- **SEO e Performance:** attenzione alla struttura tecnica, alla velocità, all'esperienza utente e alla visibilità sui motori di ricerca.
-- **Game Development:** sperimentazione con Unity e C# per sviluppare idee e progetti interattivi.
+- **WordPress Development:** temi personalizzati, blocchi Gutenberg e siti web su misura.
+- **Frontend Development:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS e animazioni web con GSAP.
+- **UI/UX Design:** interfacce responsive, accessibilità e attenzione ai dettagli.
+- **SEO, Local SEO e GEO:** ottimizzazione tecnica, visibilità nelle ricerche locali e ottimizzazione dei contenuti per i motori di ricerca e i sistemi di ricerca basati sull'intelligenza artificiale.
+- **Web Performance:** attenzione a velocità, accessibilità e qualità dell'esperienza utente.
+- **AI Development & Automation:** utilizzo dell'intelligenza artificiale nello sviluppo web, progettazione di workflow automatizzati e realizzazione di automazioni AI per semplificare attività e processi.
+- **Game Development:** apprendimento e sperimentazione con Unity e C#.
 
 ## 💻 Tecnologie e strumenti
 
 **Frontend**
 
-HTML · CSS · JavaScript · React · Tailwind CSS
+HTML · CSS · JavaScript · React · Next.js · TypeScript · Tailwind CSS · GSAP
 
 **Backend e CMS**
 
@@ -30,15 +30,19 @@ PHP · WordPress · Joomla!
 
 **WordPress Development**
 
-Temi personalizzati · Blocchi Gutenberg · Customizzazione del tema · GSAP
+Temi personalizzati · Blocchi Gutenberg · GSAP
 
-**Design**
+**SEO e Web**
 
-UI/UX · Responsive Design · Accessibilità · Web Performance
+Technical SEO · Local SEO · GEO · Web Performance · Accessibilità
 
-**Tools**
+**Intelligenza artificiale e automazioni**
 
-Git · GitHub · Visual Studio Code · Strumenti AI per lo sviluppo
+AI Coding Tools · AI Assisted Development · Workflow Automation
+
+**Strumenti**
+
+Git · GitHub · Visual Studio Code · Antigravity
 
 **Game Development**
 
@@ -46,45 +50,129 @@ Unity · C# — in fase di apprendimento e sperimentazione
 
 ## 🚀 Progetti
 
-### 🎨 Chromatica Tools
+### 🧩 [SpuntaDev](https://spuntadev.it)
 
-Un progetto dedicato ai colori, al contrasto e all'accessibilità digitale.
+**Checklist e organizzazione dei progetti per web developer.**
 
-Sto sviluppando una raccolta di strumenti interattivi per esplorare armonie cromatiche, generare palette e gradienti, analizzare i colori e verificare il contrasto secondo le linee guida WCAG.
+SpuntaDev è uno strumento ispirato alla logica di Trello, pensato per aiutare gli sviluppatori web a organizzare le attività e non dimenticare passaggi importanti durante la realizzazione di un sito.
 
-**Focus:** React, JavaScript, Tailwind CSS, accessibilità e UI interattive.
+Offre un catalogo di checklist e attività già pronte da aggiungere ai propri progetti. È inoltre possibile creare **voci personalizzate** per inserire attività specifiche non presenti nel catalogo.
 
-### 🧩 SpuntaDev
+Attualmente non utilizza un database: i dati vengono gestiti nel browser. Per evitare di perdere il lavoro quando si cambia browser o si pulisce la cache, è possibile **esportare i dati in formato JSON e importarli successivamente**, ripristinando i propri progetti e le relative attività.
 
-Un progetto personale in evoluzione, nel quale sperimento idee, strumenti e flussi di lavoro per lo sviluppo software.
+L'introduzione di un database potrà essere valutata in futuro, qualora le esigenze del progetto lo richiedano.
 
-È uno spazio per mettere alla prova nuove soluzioni, imparare attraverso la pratica e trasformare idee in progetti concreti.
+**Funzionalità principali**
+
+- Catalogo di checklist e attività pronte all'uso.
+- Organizzazione delle attività per progetto e fase di sviluppo.
+- Creazione di voci personalizzate.
+- Esportazione e importazione dei dati in formato JSON.
+- Backup e trasferimento dei progetti tra browser.
+
+**Stack:** Next.js · React · TypeScript · Tailwind CSS
+
+### 🎨 [Chromatica Tools](https://chromaticatools.web.app)
+
+**Strumenti per i colori, pensati per sviluppatori, designer e interfacce accessibili.**
+
+Chromatica Tools è una suite di strumenti interattivi per semplificare il lavoro con i colori nel web design e nello sviluppo frontend.
+
+L'obiettivo è riunire in un'unica applicazione le principali operazioni legate alla scelta dei colori, alla creazione di combinazioni cromatiche, alla generazione di gradienti e alla verifica dell'accessibilità, evitando di dover passare continuamente da uno strumento online all'altro.
+
+**Gli strumenti disponibili**
+
+- **Contrasto:** analizza il contrasto tra testo e sfondo, calcola il rapporto di contrasto secondo le linee guida WCAG e propone combinazioni alternative per migliorare la leggibilità.
+- **Accessibilità:** aiuta a valutare le combinazioni cromatiche e a esplorare simulazioni di diverse forme di daltonismo, tra cui protanopia, deuteranopia e tritanopia.
+- **Ruota Cromatica:** ruota cromatica interattiva con punti colore trascinabili, possibilità di bloccare i colori e generazione di armonie analoghe, complementari, complementari divise e triadiche.
+- **Palette:** genera palette di cinque colori e consente di bloccare i colori che si vogliono mantenere e rigenerare gli altri.
+- **Esplora Colori:** esplora i colori nei formati HEX, RGB e HSL, copia i valori e genera varianti più chiare o più scure.
+- **Gradienti:** crea gradienti lineari, radiali e conici, configurando da 2 a 8 punti colore e personalizzandone le posizioni. Permette di visualizzare il risultato e copiare il CSS generato.
+
+Gli strumenti sono progettati per essere pratici durante la realizzazione di siti web e interfacce: dalla scelta di una palette alla verifica del contrasto, fino alla generazione di codice riutilizzabile nei propri progetti.
+
+Ogni strumento permette di copiare o scaricare i colori in formato CSS, JSON o HTML.
+
+**Obiettivo:** rendere il lavoro con i colori più semplice, coerente e accessibile, mettendo a disposizione strumenti utili sia nella fase di progettazione sia durante lo sviluppo frontend.
+
+**Stack:** React · JavaScript · Tailwind CSS
+
+**Demo:** [chromaticatools.web.app](https://chromaticatools.web.app)
+
+### 🖼️ [PNG to SVG](https://png-to-svg-a1ebe.web.app)
+
+**Uno strumento online per convertire immagini e lavorare con i formati grafici più comuni.**
+
+Il progetto raccoglie tre strumenti per elaborare immagini direttamente dal browser.
+
+- **Conversione in SVG:** convertitore per immagini PNG, JPG, WEBP, GIF e BMP.
+- **Conversione in WebP:** carica una o più immagini, regola la qualità di compressione e converte i file scegliendo il compromesso tra dimensioni e nitidezza. Puoi elaborare più immagini contemporaneamente, scaricare i risultati e verificare lo spazio risparmiato rispetto agli originali.
+- **Rimozione dello sfondo:** rende trasparenti i pixel dello sfondo rilevato ed esporta l'immagine in PNG con canale alpha.
+
+La rimozione dello sfondo è pensata soprattutto per immagini con colori uniformi, come loghi, icone e foto prodotto. Il sistema confronta i colori con quelli presenti agli angoli dell'immagine: non utilizza l'intelligenza artificiale per riconoscere il soggetto e può quindi avere difficoltà con fotografie e sfondi complessi.
+
+**Stack:** React · JavaScript · Elaborazione delle immagini nel browser
+
+**Demo:** [png-to-svg-a1ebe.web.app](https://png-to-svg-a1ebe.web.app)
+
+### ⏱️ [TickTock OneTap](https://aimtrainer-tracker.web.app)
+
+**Un timer personalizzabile per il gaming, l'allenamento e le attività quotidiane.**
+
+TickTock OneTap è un timer personalizzabile progettato per ricordarsi di fare qualcosa a intervalli regolari, senza dover controllare continuamente l'orologio.
+
+L'idea nasce dalla mia esperienza con Apex Legends: lo utilizzavo per ricordarmi di alzare il *centering* mentre giocavo, impostando un segnale acustico ogni 5 secondi. Lo stesso principio può essere applicato a qualsiasi attività in cui sia utile ricevere un promemoria periodico.
+
+**Personalizza il timer**
+
+- **Titolo:** assegna un nome alla tua attività.
+- **Descrizione opzionale:** aggiungi informazioni o istruzioni per ricordarti cosa fare.
+- **Durata dell'attività:** imposta ore, minuti e secondi.
+- **Round e ripetizioni:** scegli quante volte il timer deve ripartire.
+- **Avviso acustico:** seleziona il suono più adatto tra beep standard, allarme acuto, doppio bip in stile sci-fi, gong elettronico oppure modalità silenziosa.
+- **Segnale acustico periodico opzionale:** imposta ogni quanto ricevere un promemoria, con un intervallo minimo di 5 secondi. Lasciando il campo vuoto, il segnale periodico rimane disattivato.
+
+Puoi creare timer diversi per allenamento della mira, esercizi di *centering*, routine HIIT, pause, studio, lavoro o qualsiasi altra attività che richieda una durata precisa o un promemoria ricorrente.
+
+**Stack:** React · JavaScript
+
+**Demo:** [aimtrainer-tracker.web.app](https://aimtrainer-tracker.web.app)
+
+*Nome del progetto e URL da aggiornare.*
 
 ### 🎮 Apex Legends Dodge Trainer
 
 Un progetto sperimentale ancora nelle prime fasi di sviluppo, realizzato con Unity.
 
-L'obiettivo è creare un trainer 3D dedicato alle tecniche di movimento di Apex Legends, con esercizi su tap-strafe, wall-jump, superglide, bunny hop e combinazioni di movimento.
+L'idea è creare un trainer 3D dedicato alle tecniche di movimento di Apex Legends, con esercizi su tap-strafe, wall-jump, superglide, bunny hop e combinazioni di movimento.
 
 Il progetto è ancora lontano dal risultato finale: sto costruendo le basi e approfondendo Unity, C# e le meccaniche necessarie per realizzarlo.
 
-**Focus:** Unity, C#, movimento FPS e fisica di gioco.
+**Stack:** Unity · C#
 
 ### 🌐 WordPress Projects
 
-Sviluppo e personalizzo siti web per professionisti, attività locali e piccole imprese, con attenzione al design, alla struttura dei contenuti, alle prestazioni e alla facilità di gestione.
+Realizzo e personalizzo siti web per professionisti, attività locali e piccole e medie imprese, con particolare attenzione al design, alla struttura dei contenuti, alle prestazioni e alla facilità di gestione.
 
 Preferisco soluzioni su misura basate su temi personalizzati e blocchi Gutenberg, evitando di dipendere da page builder e template preconfezionati.
 
-## 🎮 Oltre il codice: Gaming
+## 🎮 Gaming
 
-Sono un gamer appassionato, soprattutto di FPS competitivi e simulatori. Il gaming è uno dei miei interessi principali e, in alcuni casi, diventa anche una fonte d'ispirazione per i miei progetti di sviluppo.
+Oltre allo sviluppo web, sono un gamer appassionato di FPS competitivi e simulatori.
 
 ### FPS e giochi competitivi
 
-- **Apex Legends** — movimento, meccaniche e miglioramento delle abilità.
-- **Overwatch** — FPS competitivo a squadre.
-- **Farlight 84** — shooter competitivo.
+- **Apex Legends**
+- **Overwatch (OW)**
+- **Farlight 84**
+
+Mi interessano le meccaniche di movimento, il miglioramento della mira e gli aspetti tecnici che caratterizzano gli FPS competitivi. Apex Legends è anche la fonte d'ispirazione per il mio progetto Dodge Trainer.
+
+### Aim Trainer
+
+Sono appassionato di aim training e mi piace sperimentare con strumenti dedicati all'allenamento della mira, come **KovaaK's, AimBeast e Aim Lab**.
+
+Mi interessa capire come migliorare precisione, tracking, reattività e controllo della mira, sia attraverso esercizi mirati sia analizzando le meccaniche degli FPS competitivi.
 
 ### Simulatori di guida
 
@@ -98,15 +186,31 @@ Sono un gamer appassionato, soprattutto di FPS competitivi e simulatori. Il gami
 
 - **Euro Truck Simulator**
 
-Mi interessano sia la competizione e la precisione degli FPS, sia il realismo e l'attenzione ai dettagli dei simulatori. La passione per Apex Legends ha contribuito a ispirare il mio progetto di Dodge Trainer.
+Mi appassionano sia la precisione e la competizione degli FPS sia il realismo e l'attenzione ai dettagli dei simulatori.
+
+## 🎵 Musica
+
+La musica è un'altra mia grande passione. Ascolto generi diversi a seconda del momento e dell'atmosfera, senza limitarmi a un solo stile.
+
+Tra i generi che preferisco ci sono:
+
+- Heavy metal
+- Rock
+- Ska
+- Funk
+- Hip hop
+- Blues
+- Jazz
+
+Mi piace spaziare tra sonorità ed epoche differenti, passando dall'energia dell'heavy metal e del rock ai ritmi dello ska e dell'hip hop, fino alle sfumature del blues e del jazz.
 
 ## 🧠 Il mio approccio
 
-Non mi interessa soltanto far funzionare qualcosa. Voglio capire come funziona, perché è stato progettato in quel modo e come renderlo migliore.
+Non mi interessa soltanto far funzionare qualcosa: voglio capire come funziona, perché è stato progettato in quel modo e come renderlo migliore.
 
 Imparo soprattutto costruendo, sperimentando e risolvendo problemi reali. Mi piace affrontare progetti che mi permettano di uscire dalla mia zona di comfort, acquisire nuove competenze e migliorare un passo alla volta.
 
-L'intelligenza artificiale è diventata una parte importante del mio flusso di lavoro: la considero uno strumento per esplorare possibilità, risolvere problemi e sviluppare più velocemente, senza rinunciare alla verifica e alla comprensione delle soluzioni.
+L'intelligenza artificiale è diventata una parte importante del mio flusso di lavoro. La considero uno strumento per esplorare possibilità, accelerare lo sviluppo e risolvere problemi, mantenendo l'attenzione sulla qualità e sulla comprensione delle soluzioni.
 
 Non mi interessa collezionare tecnologie solo per inserirle in un elenco. Preferisco usarle per costruire qualcosa di utile, imparare e migliorare continuamente.
 
@@ -116,6 +220,8 @@ Non mi interessa collezionare tecnologie solo per inserirle in un elenco. Prefer
 
 💻 WordPress · Web Development · UI/UX
 
-🎮 FPS competitivi · Sim Racing · Truck Simulation
+🎮 FPS competitivi · Aim Training · Sim Racing · Truck Simulation
 
-🧪 Progetti personali, sperimentazione e apprendimento continuo
+🎵 Heavy Metal · Rock · Ska · Hip Hop · Blues · Jazz
+
+🧪 Progetti personali · Sperimentazione · Apprendimento continuo
