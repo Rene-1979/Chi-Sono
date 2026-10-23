@@ -50,7 +50,7 @@ Unity · C# — in fase di apprendimento e sperimentazione
 
 ## 🚀 Progetti
 
-### 🧩 [SpuntaDev](https://spuntadev.it)
+### 🧩 [SpuntaDev](https://spuntadev.web.app)
 
 **Checklist e organizzazione dei progetti per web developer.**
 
@@ -205,7 +205,6 @@ Tra i titoli che ho seguito e sto seguendo ci sono:
 - **Chainsaw Man**
 - **Cyberpunk: Edgerunners**
 - **Death Note**
-- **Ken il guerriero**
 
 Mi piacciono sia i grandi classici che hanno segnato il genere sia le serie più recenti. Apprezzo in particolare i combattimenti, l'evoluzione dei personaggi e le storie capaci di alternare azione, tensione e momenti più profondi.
 
