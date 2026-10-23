@@ -188,6 +188,27 @@ Mi interessa capire come migliorare precisione, tracking, reattività e controll
 
 Mi appassionano sia la precisione e la competizione degli FPS sia il realismo e l'attenzione ai dettagli dei simulatori.
 
+## 🎌 Anime
+
+Sono un grande appassionato di anime, soprattutto shonen, action e serie caratterizzate da combattimenti intensi, personaggi memorabili e percorsi di crescita.
+
+Tra i titoli che ho seguito e sto seguendo ci sono:
+
+- **Bleach**
+- **Dragon Ball**
+- **Hunter × Hunter**
+- **Naruto**
+- **Jujutsu Kaisen**
+- **Demon Slayer**
+- **Black Clover**
+- **Solo Leveling**
+- **Chainsaw Man**
+- **Cyberpunk: Edgerunners**
+- **Death Note**
+- **Ken il guerriero**
+
+Mi piacciono sia i grandi classici che hanno segnato il genere sia le serie più recenti. Apprezzo in particolare i combattimenti, l'evoluzione dei personaggi e le storie capaci di alternare azione, tensione e momenti più profondi.
+
 ## 🎵 Musica
 
 La musica è un'altra mia grande passione. Ascolto generi diversi a seconda del momento e dell'atmosfera, senza limitarmi a un solo stile.
@@ -222,6 +243,8 @@ Non mi interessa collezionare tecnologie solo per inserirle in un elenco. Prefer
 
 🎮 FPS competitivi · Aim Training · Sim Racing · Truck Simulation
 
-🎵 Heavy Metal · Rock · Ska · Hip Hop · Blues · Jazz
+🎌 Anime · Shonen · Action
+
+🎵 Heavy Metal · Rock · Ska · Funk · Hip Hop · Blues · Jazz
 
 🧪 Progetti personali · Sperimentazione · Apprendimento continuo
